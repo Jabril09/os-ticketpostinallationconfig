@@ -19,14 +19,14 @@
 
 - Item 1 If your are not signed into azure, go to portal.azure.com and sign in.
 - Item 2 Go to virtual machines in azure
-- Item 3 login remote desktop with ip address from virtual machine and logion in with user name and password
+- Item 3 login remote desktop with ip address from virtual machine and login in with user name and password
 - Item 4 Config Roles - Go to Admin Panel > Agents > Roles then select Supreme Admin 
 - Item 5 Config Departments - Go to Admin Panel > Agents > Departments Then make / select System Admin 
 - Item 6 Config Teams - Go to Admin Panel > Agents > Teams Thgen make / select System Admin
 - Item 7 Allow anyone to Create Tickets - Go to Admin Panel > Settings > User settings. Then make Registration and Login required to create tickets
 - Item 8 Config Agents ( workers ) - Go to Admin Panel > Agents > Add new 
 - Item 9 Config SLA ( Service Level Agreement ) - Go to Admin Panel > Manage > SLA. Set to whatever the Business your're at SLA but for now we can use Sev - A ( 1 hour , 24/7 Sev - B ( 4 hours, 24/7 ) Sev - C ( 8 hours, business hours )
-_ Item 10 Config help Topics - Go to Admin Panel - Manage - Help topics from there you can make / add different help topics such as Password Reset , Equipment request etc.
+- Item 10 Config help Topics - Go to Admin Panel - Manage - Help topics from there you can make / add different help topics such as Password Reset , Equipment request etc.
 
 <h2>Configuration Steps</h2>
 
